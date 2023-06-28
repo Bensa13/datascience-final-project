@@ -6,3 +6,4 @@ seaborn
 pandas
 numpy
 tpot
+ydata_profiling
